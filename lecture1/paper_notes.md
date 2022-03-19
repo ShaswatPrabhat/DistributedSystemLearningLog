@@ -63,4 +63,4 @@ Number of occurences of each word in a large document
 
 * Divide Map in M parts
 * Reduce into R parts
-* 
+  
