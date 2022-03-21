@@ -1,0 +1,4 @@
+# GFS Paper
+
+## Design choices
+* 
